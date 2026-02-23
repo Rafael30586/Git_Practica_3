@@ -1,3 +1,3 @@
 ECHO "Hola desde un archivo .cmd"
-node ladrar.js
+node carpeta/ladrar.js
 pause
