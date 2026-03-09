@@ -1,1 +1,1 @@
-print("Adios")
+print("Adios y chau")
