@@ -1,1 +1,1 @@
-print("Adios , Good bye")
+print("Adios")
