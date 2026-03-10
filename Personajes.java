@@ -6,6 +6,8 @@ public class Personajes{
         LinkedList<String> personajes = new LinkedList<>();
 
         personajes.add("Mario");
+        personajes.add("Link");
+        
 
         System.out.println("La lista de personajes es: "+personajes);
 
