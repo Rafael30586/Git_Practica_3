@@ -8,6 +8,7 @@ public class Personajes{
         personajes.add("Mario");
         personajes.add("Link");
         personajes.add("Cloud");
+        personajes.add("Master Chief");
 
 
         System.out.println("La lista de personajes es: "+personajes);
