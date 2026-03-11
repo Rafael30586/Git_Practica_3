@@ -1,1 +1,1 @@
-console.log("¡miau! ¡miau!")
+console.log("¡miau! ¡miau! ¡MIAU!")
